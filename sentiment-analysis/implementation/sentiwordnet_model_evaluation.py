@@ -1,17 +1,9 @@
 """
-Created on Wed March 06 3:45pm 2019
-@author: De Jong Yeong (T00185309)
 
 Predict sentiment label with SentiWordNet dictionary and evaluate its performance including accuracy, precision, recall,
 f1 score, confusion matrix and classification report. Data split into 70% training and 30% validation/test.
 
 SentiWordNet (lexicon-based) takes in reviews in which stops word are removed and are lemmatized.
-
-Book References:
-Title: Text Analysis with Python: A Practical Real-World Approach to Gaining Actionable Insights from Your Data
-Author: Dipanjan Sarkar
-Publisher: APress (2016)
-ISBN: 978-1-4842-2387-1
 
 Output file: none
 """
