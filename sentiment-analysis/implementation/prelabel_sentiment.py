@@ -1,6 +1,4 @@
 """
-Created on Tue Feb 26 4:45pm 2019
-@author: De Jong Yeong (T00185309)
 
 Prelabel text reviews with a sentiment sccore and sentiment label based on its score. Score greater than 0 represents
 positive text reviews, less than 0 represents negative text reviews, and equal to 0 represents neutral text reviews
