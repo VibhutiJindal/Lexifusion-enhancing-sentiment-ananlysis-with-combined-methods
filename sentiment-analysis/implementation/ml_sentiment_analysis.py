@@ -1,6 +1,4 @@
 """
-Created on Tue March 23 4:45pm 2019
-@author: De Jong Yeong (T00185309)
 
 Machine Learning approach for sentiment analysis. It extracts feature with TF-IDF model to perform sentiment analysis.
 TF-IDF: Term Frequency - Inverse Document Frequency. It is a product of two metrics (tfidf = tf * idf).
