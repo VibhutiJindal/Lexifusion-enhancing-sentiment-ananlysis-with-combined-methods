@@ -1,6 +1,4 @@
 """
-Created on Tue April 16 2:16pm 2019
-@author: De Jong Yeong
 
 Visualize a summary of positive, negative, and neutral review for only the 'Apple and BlackBerry Brand'.
 
