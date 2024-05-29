@@ -1,4 +1,4 @@
-#determiners
+#determiner
 a
 an
 another
@@ -27,7 +27,7 @@ for
 nor
 so
 #preposition
- as
+Â as
 aboard
 about
 above
