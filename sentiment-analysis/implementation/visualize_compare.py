@@ -29,8 +29,7 @@ for index, row in df.iterrows():
     for elem in range(len(columns)):
         df.at[index, columns[elem]] = np.round(row[columns[elem]] * 100, 1)
 
-# visualization
-# reference: https://stackoverflow.com/questions/25447700/annotate-bars-with-values-on-pandas-bar-plots
+
 fig = plt.figure()
 ax = df.plot.bar()
 plt.title('Model Evaluation Metrics Comparison of Sentiment Analysis Approaches\n')
