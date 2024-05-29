@@ -1,6 +1,4 @@
 """
-Created on Sun Feb 03 12:45am 2019
-@author: De Jong Yeong (T00185309)
 
 Data cleansing includes remove trailing spaces, remove url, remove digits, remove non-English text reviews, expand
 contractions, insert space between words and punctuations, spelling correction, sentence tokenization, lowercasing,
