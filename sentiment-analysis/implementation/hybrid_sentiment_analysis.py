@@ -1,7 +1,4 @@
 """
-Created on Monday April 1 2019 4:45pm
-@author: De Jong Yeong (T00185309)
-
 Hybrid approach for sentiment analysis. It is the combination of lexicon-based technique and machine learning technique
 to perform sentiment analysis.
 
