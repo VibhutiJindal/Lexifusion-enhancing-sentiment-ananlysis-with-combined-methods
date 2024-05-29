@@ -1,7 +1,4 @@
 """
-Created on Sun Feb 03 12:45am 2019
-@author: De Jong Yeong (T00185309)
-
 Utility function for sentiment analysis implementation.
 
 Output file: prepared_amazon_unlocked_mobile_datasets.csv
